@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999593392489",
+    "project_id": "multi-store-admin-01-e9979",
+    "storage_bucket": "multi-store-admin-01-e9979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999593392489:android:83e2ab95f56dffe35e65f8",
+        "android_client_info": {
+          "package_name": "com.jguichardo.multi_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL0xymgrSBqCVQnVgx-zY9iDyOsh3zMko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
